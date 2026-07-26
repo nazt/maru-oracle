@@ -1,5 +1,5 @@
 # maru-oracle
 
 
-Hello World
-Hello World 2
+- Hello World
+- Hello World 2
